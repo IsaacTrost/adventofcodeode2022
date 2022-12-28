@@ -1,0 +1,11 @@
+/home/isaactrost/adventofcode2022/day11/target/debug/deps/proc_macro2-14034a8142fe303b.rmeta: /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/lib.rs /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/marker.rs /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/parse.rs /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/rcvec.rs /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/detection.rs /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/fallback.rs /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/wrapper.rs
+
+/home/isaactrost/adventofcode2022/day11/target/debug/deps/proc_macro2-14034a8142fe303b.d: /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/lib.rs /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/marker.rs /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/parse.rs /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/rcvec.rs /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/detection.rs /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/fallback.rs /home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/wrapper.rs
+
+/home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/lib.rs:
+/home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/marker.rs:
+/home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/parse.rs:
+/home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/rcvec.rs:
+/home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/detection.rs:
+/home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/fallback.rs:
+/home/isaactrost/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.49/src/wrapper.rs:
